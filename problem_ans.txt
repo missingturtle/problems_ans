@@ -1,0 +1,3 @@
+1. 在win10中打开hyper-v : 链接1：https://learn.microsoft.com/zh-cn/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+		        链接2：https://learn.microsoft.com/en-us/answers/questions/1336873/how-to-solve-wsl-service-createinstance-createvm-h
+		注意 bcdedit /set hypervisorlaunchtype Auto   然后restart	
